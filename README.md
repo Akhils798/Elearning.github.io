@@ -1,6 +1,6 @@
 # E-Learning Platform
 
-A modern, interactive e-learning platform built with React, TypeScript, and Tailwind CSS. Features course listing, progress tracking, video embedding, user authentication with database storage, and a beautiful multi-page interface.
+initial commit
 
 ## 🚀 Features
 
